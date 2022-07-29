@@ -4,5 +4,4 @@ Desenvolvedor júnior, estudante do 3º ano do Ensino Médio integrado ao curso 
 
 
 
-![Paulo Prado GitHub stats](https://github-readme-stats.vercel.app/api
-username=paulomaprado&show_icons=true&theme=radical)
+![Paulo Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomaprado&show_icons=true&theme=radical)
