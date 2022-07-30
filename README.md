@@ -52,8 +52,8 @@ Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado a
 
 <hr>
 
-<p align='center'>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=paulomaprado&show_icons=true&count_private=true&theme=radical" width="450">
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/PauloMAPrado">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomaprado&layout=compact&langs_count=7&theme=radical"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=paulomaprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
