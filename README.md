@@ -31,3 +31,23 @@ Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado a
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
+
+<h3 align="center">
+  Contato
+</h3>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<hr>
+
+![PauloPrado GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomaprado&align=center&show_icons=true&theme=radical)
