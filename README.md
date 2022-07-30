@@ -20,6 +20,8 @@ Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado a
   - :round_pushpin: Ceres, Goiás, Brasil
 </p>
 
+<hr>
+
 <h3 align="center">
   Linguagens
 </h3>
@@ -50,4 +52,8 @@ Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado a
 
 <hr>
 
-![PauloPrado GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomaprado&align=center&show_icons=true&theme=radical)
+<p align='center'>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=paulomaprado&show_icons=true&count_private=true&theme=radical" width="450">
+  </a>
+</p>
