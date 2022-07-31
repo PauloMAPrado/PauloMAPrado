@@ -5,7 +5,7 @@
 <hr>
 
 <p>
-Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado ao curso de Técnico em Informática para internet. Focado na programação/desenvolvimento de sites para a web, como você pode ver em meu portfólio: https://paulomaprado.github.io  
+Estudante do interior de Goiás, cursando o 3º ano do Ensino Médio integrado ao curso de Técnico em Informática para internet. Focado na programação/desenvolvimento de sites para a web, como você pode ver em meu portfólio: https://paulomaprado.github.io (Em construção!)
 </p>
 
 <h3 align="center">
