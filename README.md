@@ -5,7 +5,7 @@
 <hr>
 
 <p>
-Estudante do interior de Goiás, cursando o 5º período de Sistemas de Informação, no Instituto Federal Goiano Campus Ceres. Focado na programação/desenvolvimento de sites para a web.
+Estudante do interior de Goiás, cursando o 6º período de Sistemas de Informação, no Instituto Federal Goiano Campus Ceres. Focado na programação/desenvolvimento de sites para a web.
 </p>
 
 <h3 align="center">
