@@ -53,6 +53,6 @@ Estou ativamente procurando por oportunidades de **estágio em desenvolvimento w
 
 Sinta-se à vontade para entrar em contato comigo para oportunidades de estágio, colaborações ou apenas para trocar ideias!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomaprado/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomaprado@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paulomaprado/](https://www.linkedin.com/in/paulo-prado-25062004/))
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomapradodev@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulomaprado/)
