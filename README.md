@@ -1,12 +1,12 @@
 # Olá, eu sou o Paulo Prado! 👋
 
-Estudante de Sistemas de Informação e desenvolvedor web júnior, apaixonado por tecnologia e em busca da minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos. Atualmente, estou cursando o 6º período no Instituto Federal Goiano - Campus Ceres, focado em construir soluções web inovadoras e eficientes.
+Estudante de Sistemas de Informação e desenvolvedor web júnior, apaixonado por tecnologia e em busca da minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos. Atualmente, estou cursando o 8º período no Instituto Federal Goiano - Campus Ceres, focado em construir soluções web inovadoras e eficientes.
 
 ## Sobre Mim
 
 Sou um jovem proativo e dedicado, sempre em busca de aprendizado e aprimoramento contínuo. Minha jornada na programação tem sido marcada pela curiosidade e pelo desejo de transformar ideias em realidade através do código. Tenho experiência em desenvolvimento web, com foco em front-end e back-end, e estou ansioso para contribuir em um ambiente dinâmico e desafiador.
 
-- 📚 Cursando **Sistemas de Informação** (7º Período) no IF Goiano - Campus Ceres
+- 📚 Cursando **Sistemas de Informação** (8º Período) no IF Goiano - Campus Ceres
 - 💻 Desenvolvedor Web Júnior
 - 📍 Ceres, Goiás, Brasil
 - 🌐 [Meu Portfólio/Site Pessoal](https://paulomaprado.github.io/)
